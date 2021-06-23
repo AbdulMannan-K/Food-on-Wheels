@@ -1,0 +1,6 @@
+Abdul                                          123                      abc@gmail.com                 BoomBoom                180390123                                              Islamabad       0.0         0         0
+boom                                           123                      abc@gmail.com                 BoomBoom               0312432423                                              Islamabad       0.0         0         0
+BK                                     03105784747                      kha@gmail.com               BurgerKing                128903901                                              Islamabad       0.0         0         0
+PH                                             123                  karachi@gmail.com                 PizzaHut              03175504652                                                 G-13/4       0.0         0         0
+abc@gmail.com                                  123                      hns@gmail.com                HotnSpicy               0312435294                                                Karachi       0.0         0         0
+sb                                             123                       sb@gmail.com                StarBucks               0315784747                                                 G-13/4       0.0         0         0

@@ -1,0 +1,3 @@
+pizza,200
+roll,200
+burger,200
