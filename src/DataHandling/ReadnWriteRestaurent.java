@@ -8,7 +8,6 @@ import java.io.IOException;
 import java.util.Formatter;
 import java.util.StringTokenizer;
 
-import models.Customer;
 import models.Restaurent;
 
 public class ReadnWriteRestaurent implements ReadnWrite{

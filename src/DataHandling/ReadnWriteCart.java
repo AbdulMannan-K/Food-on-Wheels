@@ -121,11 +121,11 @@ public class ReadnWriteCart {
 					boolean rider = Boolean.parseBoolean(parts[parts.length-2]);
 					boolean status = Boolean.parseBoolean(parts[parts.length-1]);
 					
-					boolean notfound = true ;
+					boolean notfound = false ;
 					Restaurent restaurent=null;
 					for(int i=0 ; i < data.getRestaurents().size() ; i++) {
 						notfound=false;
-						if(data.getRestaurents().get(i).getRestaurentName().equals(rest)) {
+						if(data.getRestaurents().get(i).getUserName().equals(rest)) {
 							restaurent = data.getRestaurents().get(i);
 							break;
 						}else {
@@ -144,7 +144,7 @@ public class ReadnWriteCart {
 						
 					}
 					else {
-						System.out.println("wrong Entries");
+						System.out.println("Customer Cart wrong Entries");
 					}
 				}
 			}
